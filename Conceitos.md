@@ -93,3 +93,10 @@ fs.unlink('test.txt', error => {
   ```
 
   O *__dirname* é uma variável de ambiente, onde o node guarda o caminho atual da pasta.
+
+## Chain of Responsibility 
+### ( Cadeia de Responabilidades)
+
+Encadeamento de responsabilidades onde cada middleware ira tratar com os dados enviados pela requisição.
+
+### MiddleWares
