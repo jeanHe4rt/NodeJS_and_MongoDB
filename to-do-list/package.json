@@ -1,0 +1,14 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "Lista de Tarefas",
+  "main": "app.js",
+  "author": "jeanat2",
+  "license": "MIT",
+  "scripts": {
+    "teste": "echo \"Error: no test specified\"&& exit"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
