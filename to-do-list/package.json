@@ -6,9 +6,13 @@
   "author": "jeanat2",
   "license": "MIT",
   "scripts": {
-    "teste": "echo \"Error: no test specified\"&& exit"
+    "teste": "echo \"Error: no test specified\"&& exit",
+    "dev": "nodemon app.js"
   },
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
