@@ -9,7 +9,7 @@ Ele possui verbos:
 - PUT/PATH - Atualizar dados
 - DELETE - Deletar dado, onde passamos um id
 
-## Status do Servidor
+### Status do Servidor
 
 - 200: Requisição 0k!
 - 201: Registro criado com  sucesso:
