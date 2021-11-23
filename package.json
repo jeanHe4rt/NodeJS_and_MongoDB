@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_and_mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanAt2/NodeJS_and_MongoDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeanAt2/NodeJS_and_MongoDB/issues"
+  },
+  "homepage": "https://github.com/jeanAt2/NodeJS_and_MongoDB#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
