@@ -1,5 +1,5 @@
 # Considerações
-Primeiramente peço perdão por não terminar esse app, mas como estava sómente aprendendo como faço as coisas passei muita raiva e resolvi fazer ele todo do zero. Provalvemente coloquei o nome de TODO-list mas como ainda não criei o Repositório provavelmente irá encontrar ele com outro nome.
+Primeiramente peço perdão por não terminar esse app, mas como estava somente aprendendo como faço as coisas passei muita raiva e resolvi fazer ele todo do zero. Provalvemente coloquei o nome de TODO-list mas como ainda não criei o Repositório provavelmente irá encontrar ele com outro nome.
 
 ## Entendendo o Backend
 
