@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/jeanAt2/NodeJS_and_MongoDB#readme",
   "dependencies": {
-    "moment": "^2.29.1"
+    "moment": "^2.29.4"
   }
 }
